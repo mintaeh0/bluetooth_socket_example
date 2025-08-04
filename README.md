@@ -1,7 +1,7 @@
 ### Flutter Bluetooth 통신 및 Socket 예제
 재직 중 구현했던 Bluetooth 통신과 Socket 통신을 가짜 정보로 재구현한 예제 프로젝트입니다.   
 통신 과정을 보이기 위해 코드로 구현한 것이며, 실제 데이터는 수신할 수 없는 환경입니다.    
-Provider를 이용한 상태관리를 예로 구현했습니다.   
+Provider를 이용한 View-Viewmodel 구조의 상태관리를 예로 구현했습니다.   
 
 ### 사용 라이브러리
 ```
