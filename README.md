@@ -16,7 +16,7 @@ permission_handler: ^12.0.1
 3. 수신한 정보를 다시 Bluetooth로 연결된 장비에 전송하면 장비 시스템에 의해 더 수준 높은 데이터를 수신할 수 있습니다.
 4. 위와 같은 과정으로 Bluetooth로 연결된 장비와 Socket 방식으로 연결된 서버는 끊임없이 서로 데이터를 주고 받으며 사용자에게 필요한 데이터를 제공하게 됩니다.
 
-<img width="881" height="513" alt="image" src="https://github.com/user-attachments/assets/554a0ffa-8ae1-4b8c-96bf-ad17d371832b" />
+<img width="1311" height="765" alt="image" src="https://github.com/user-attachments/assets/2a2f1792-2bcc-4481-a6d2-b92ddc16acba" />
 
 ### ViewModel 요약
 `init()`   
